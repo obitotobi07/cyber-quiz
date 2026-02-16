@@ -99,8 +99,8 @@ This project follows:
 ## 📦 1️⃣ Clone or Download the Project
 
 ```bash
-git clone <repository-link>
-cd cyber_quiz_project
+git clone https://github.com/obitotobi07/cyber-quiz
+cd cyber-quiz
 ```
 
 Or manually download and extract the folder.
