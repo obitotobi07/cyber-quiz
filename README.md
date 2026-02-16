@@ -46,7 +46,7 @@ cyber_quiz_project/
 ├── cyber_quiz_app.py      # Main Streamlit Quiz Application
 ├── question_manager.py    # Terminal-based CRUD Manager
 ├── questions.json         # Stores quiz data
-└── README.md              # Documentation
+├── README.md              # Documentation
 └── requirements.txt       # Requirements 
 ```
 
