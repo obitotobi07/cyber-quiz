@@ -1,0 +1,192 @@
+[
+    {
+        "question": "What should you do if someone asks for your UPI PIN over a phone call?",
+        "options": [
+            "Share it immediately",
+            "Share only first 2 digits",
+            "Never share it",
+            "Send it by SMS"
+        ],
+        "answer": "Never share it"
+    },
+    {
+        "question": "Which Indian platform allows you to report cyber crimes online?",
+        "options": [
+            "Youtube",
+            "National Cyber Crime Portal",
+            "Paytm",
+            "SSC Website"
+        ],
+        "answer": "National Cyber Crime Portal"
+    },
+    {
+        "question": "What is the emergency cyber crime helpline number in India?",
+        "options": [
+            "100",
+            "108",
+            "1930",
+            "112"
+        ],
+        "answer": "1930"
+    },
+    {
+        "question": "If you receive a fake message claiming to be from your bank asking for KYC update, what should you do?",
+        "options": [
+            "Click the link immediately",
+            "Share your Aadhaar number",
+            "Contact your bank directly",
+            "Forward the message"
+        ],
+        "answer": "Contact your bank directly"
+    },
+    {
+        "question": "Which of the following is a common digital payment method in India?",
+        "options": [
+            "UPI",
+            "Cheque Book App",
+            "Password Transfer",
+            "SIM Exchange"
+        ],
+        "answer": "UPI"
+    },
+    {
+        "question": "Why should you not post your Aadhaar number publicly?",
+        "options": [
+            "It is too long",
+            "It can be misused for identity theft",
+            "It reduces internet speed",
+            "It is illegal to memorize"
+        ],
+        "answer": "It can be misused for identity theft"
+    },
+    {
+        "question": "What is a common scam during online shopping sales in India?",
+        "options": [
+            "Fake delivery calls asking for OTP",
+            "Discount coupons",
+            "Cash on Delivery",
+            "Free returns"
+        ],
+        "answer": "Fake delivery calls asking for OTP"
+    },
+    {
+        "question": "Which government initiative promotes digital payments and digital safety in India?",
+        "options": [
+            "Digital India",
+            "Swachh Bharat",
+            "Make in India",
+            "Skill India"
+        ],
+        "answer": "Digital India"
+    },
+    {
+        "question": "What should you do if you receive a suspicious WhatsApp message asking for money from a friend?",
+        "options": [
+            "Send money immediately",
+            "Ask your friend through a different channel",
+            "Ignore the message",
+            "Share it with others"
+        ],
+        "answer": "Ask your friend through a different channel"
+    },
+    {
+        "question": "What is a strong password?",
+        "options": ["123456", "password", "P@ssw0rd2026!", "abcd"],
+        "answer": "P@ssw0rd2026!"
+    },
+    {
+        "question": "Should you share your OTP with anyone?",
+        "options": ["Yes", "Only with friends", "No", "Sometimes"],
+        "answer": "No"
+    },
+    {
+        "question": "What is phishing?",
+        "options": [
+            "Fishing in water",
+            "A cyber attack to steal information",
+            "A game",
+            "Email writing"
+        ],
+        "answer": "A cyber attack to steal information"
+    },
+    {
+        "question": "What is a strong password?",
+        "options": [
+            "12345678",
+            "password",
+            "MyDog@2026!",
+            "abcd1234"
+        ],
+        "answer": "MyDog@2026!"
+    },
+    {
+        "question": "What should you do if you receive a suspicious email asking for your bank details?",
+        "options": [
+            "Reply immediately",
+            "Click the link to check",
+            "Ignore or report it",
+            "Forward to friends"
+        ],
+        "answer": "Ignore or report it"
+    },
+    {
+        "question": "Why is sharing your OTP dangerous?",
+        "options": [
+            "It wastes time",
+            "It allows others to access your account",
+            "It increases internet speed",
+            "It improves security"
+        ],
+        "answer": "It allows others to access your account"
+    },
+    {
+        "question": "What does HTTPS indicate in a website URL?",
+        "options": [
+            "The site is colorful",
+            "The site is secure and encrypted",
+            "The site is free",
+            "The site loads faster"
+        ],
+        "answer": "The site is secure and encrypted"
+    },
+    {
+        "question": "What is phishing?",
+        "options": [
+            "A fishing sport",
+            "A type of malware attack to steal information",
+            "A social media app",
+            "An antivirus software"
+        ],
+        "answer": "A type of malware attack to steal information"
+    },
+    {
+        "question": "Which of the following is safe to share publicly?",
+        "options": [
+            "Your home address",
+            "Your school ID number",
+            "Your favorite hobby",
+            "Your bank password"
+        ],
+        "answer": "Your favorite hobby"
+    },
+    {
+        "question": "What should you do before installing an app?",
+        "options": [
+            "Check reviews and permissions",
+            "Install immediately",
+            "Ignore permissions",
+            "Share OTP"
+        ],
+        "answer": "Check reviews and permissions"
+    },
+    {
+        "question": "Why should you update your software regularly?",
+        "options": [
+            "To make device heavier",
+            "To improve security and fix bugs",
+            "To delete files",
+            "To slow down internet"
+        ],
+        "answer": "To improve security and fix bugs"
+    }
+]
