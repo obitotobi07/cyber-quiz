@@ -167,7 +167,9 @@ http://localhost:8501
 ## 🔄 Restarting the Quiz
 
 Click the **Restart Quiz** button inside the app
+
 OR
+
 Stop the server using:
 
 ```
@@ -181,6 +183,7 @@ Then run the Streamlit command again.
 ## 👨‍💻 Developed By
 
 P. Lalitha Sri (under guidance)
+
 Class IX – Computer Subject Project for Subject Fair
 
 ---
