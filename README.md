@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 
 The **Cyber Safety Awareness Quiz App** is a Python-based web application developed using Streamlit.
-It promotes cyber security awareness through an interactive quiz system.
+It promotes cyber security awareness through an interactive quiz system. 
+
+Up and Running at ![Cyber Quiz](https://cyber-quiz.streamlit.app).
 
 The project follows modular architecture:
 
